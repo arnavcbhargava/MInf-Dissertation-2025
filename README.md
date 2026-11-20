@@ -1,4 +1,4 @@
-## My Dissertation
+## My Edinburgh MInf Dissertation
 
 Read the full dissertation [here](dissertation/Dissertation_ArnavBhargava.pdf).
 
